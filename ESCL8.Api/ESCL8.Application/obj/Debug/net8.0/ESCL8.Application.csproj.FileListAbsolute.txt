@@ -1,0 +1,17 @@
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\bin\Debug\net8.0\ESCL8.Application.deps.json
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\bin\Debug\net8.0\ESCL8.Application.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\bin\Debug\net8.0\ESCL8.Application.pdb
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\bin\Debug\net8.0\ESCL8.Domain.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\bin\Debug\net8.0\ESCL8.Domain.pdb
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.csproj.AssemblyReference.cache
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.AssemblyInfoInputs.cache
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.AssemblyInfo.cs
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.csproj.CoreCompileInputs.cache
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Ap.8C4D7CBC.Up2Date
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\refint\ESCL8.Application.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.pdb
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ref\ESCL8.Application.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\bin\Debug\net8.0\ESCL8.Application.runtimeconfig.json
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Application\obj\Debug\net8.0\ESCL8.Application.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\bin\Debug\net8.0\ESCL8.Domain.deps.json
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\bin\Debug\net8.0\ESCL8.Domain.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\bin\Debug\net8.0\ESCL8.Domain.pdb
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.AssemblyInfoInputs.cache
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.AssemblyInfo.cs
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.csproj.CoreCompileInputs.cache
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\refint\ESCL8.Domain.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.pdb
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ref\ESCL8.Domain.dll
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\bin\Debug\net8.0\ESCL8.Domain.runtimeconfig.json
+C:\Users\manag\Desktop\Escl8 prototype\ESCL8.Api\ESCL8.Domain\obj\Debug\net8.0\ESCL8.Domain.genruntimeconfig.cache

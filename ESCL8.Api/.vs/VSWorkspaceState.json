@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ESCL8.Api",
+    "\\ESCL8.Api\\Controllers",
+    "\\ESCL8.Domain",
+    "\\ESCL8.Domain\\Entities",
+    "\\ESCL8.Infrastructure",
+    "\\ESCL8.Infrastructure\\Persistence"
+  ],
+  "SelectedNode": "\\ESCL8.Infrastructure\\Persistence\\Escl8DbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
